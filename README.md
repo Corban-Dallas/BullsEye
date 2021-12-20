@@ -1,3 +1,2 @@
 # BullsEye
-A simple iOS game maded by tutorial from www.raywenderlich.com in MVP design pattern.
-
+A simple iOS game made by tutorial from www.raywenderlich.com with UIKiе and MVP design pattern.
